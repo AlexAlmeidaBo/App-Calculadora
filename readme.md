@@ -1,0 +1,1 @@
+Projeto de uma calculadora feito com Javascript e Bootstrap com o intuito de pratica de conhecimentos obtidos em cursos.
